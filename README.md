@@ -25,7 +25,7 @@ https://archive.ics.uci.edu/dataset/222/bank+marketing
 
 ## Integrantes
 - Fabrizio Roy Choque Ormachea
-- M
+- Milton Hiroshi Taco Aviles
 
 ## Estructura del proyecto
 - data/: archivos de datos
